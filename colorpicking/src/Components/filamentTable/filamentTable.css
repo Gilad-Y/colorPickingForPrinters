@@ -1,0 +1,13 @@
+.filamentTable {
+}
+Table,
+td,
+th,
+td {
+  border: 1px solid black;
+}
+thead,
+tr,
+th {
+  border: 1px solid black;
+}
